@@ -1,2 +1,11 @@
-# quizify
-A fun and interactive quiz web app built with HTML, CSS, and JavaScript. Features dynamic questions, timer, scoring system, and responsive design.
+# Quizify – Learn. Play. Grow. 🎯
+
+Quizify is a fun and interactive quiz web app built using **HTML, CSS, and JavaScript**.
+
+## 🚀 Features
+- 🎯 Dynamic question loading from JSON
+- ⏳ Timer-based quizzes
+- ✅ Instant feedback for correct and wrong answers
+- 🧠 Score tracking
+- 📱 Responsive design
+
